@@ -13,7 +13,7 @@ public class mojaSzostaAplikacja {
             long endIter = System.nanoTime();
             long timeIter = endIter - startIter;
 
-            System.out.println("Iteracyjnie: " + N + "! = " + factorialIter);
+            System.out.println("Iteracyjniee: " + N + "! = " + factorialIter);
             System.out.println("Czas wykonania metody iteracyjnej: " + timeIter + " ns");
 
 
