@@ -1,6 +1,6 @@
 package pl.pp;
 
-public class mojaSzostaAplikacjaPoprawiona {
+public class mojaSzostaAplikacja {
 
         public static void main(String[] args) {
 
